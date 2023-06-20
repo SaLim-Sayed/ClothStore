@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/clothStore/static/css/main.30ea52ad.css",
+    "main.js": "/clothStore/static/js/main.48fe7be9.js",
+    "index.html": "/clothStore/index.html",
+    "main.30ea52ad.css.map": "/clothStore/static/css/main.30ea52ad.css.map",
+    "main.48fe7be9.js.map": "/clothStore/static/js/main.48fe7be9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30ea52ad.css",
+    "static/js/main.48fe7be9.js"
+  ]
+}
